@@ -20,4 +20,4 @@ J'ai réalisé ce petit jeu afin de montrer à mes proches étant totalement hor
 
 ## Résultat :
 
-- Il est possible de faire ce petit jeu dans son état actuel ici : https://jeremycreola.github.io/story-teller/
+- Il est possible de faire ce petit jeu dans son état actuel ici : https://jeremycreola.github.io/story-teller/ {:target="_blank" }
